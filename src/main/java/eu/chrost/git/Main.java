@@ -15,7 +15,7 @@ public class Main {
         int value = rand.nextInt(100);
         System.out.println(value);
 
-        System.out.println("New feature on master branch");
+        System.out.println("New feature on master branch test");
     }
 
 
